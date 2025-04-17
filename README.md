@@ -1,8 +1,9 @@
-# bip32
+# bip32_plus
 
 A [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) compatible library for Flutter writing in Dart.
 
 Inspired by [bitcoinjs](https://github.com/bitcoinjs/bip32)
+Replace `bip32` package because it is not maintained. Thanks for their work!! 🙏🏼
 
 ## Example
 ```dart
